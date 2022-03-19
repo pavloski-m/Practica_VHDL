@@ -1,0 +1,7 @@
+v 4
+file . "../Fuentes/sum4b_tb.vhd" "43ea6b2b2f77223321affb4c483b02b164bea689" "20220319191650.254":
+  entity sum4b_tb at 1( 0) + 0 on 13;
+  architecture sum4b_tb_arq of sum4b_tb at 7( 69) + 0 on 14;
+file . "../Fuentes/sum4b.vhd" "4005922f962062c5dadff5af07e809cb049954a2" "20220319191650.253":
+  entity sum4b at 1( 0) + 0 on 11;
+  architecture sum4b_arq of sum4b at 14( 242) + 0 on 12;

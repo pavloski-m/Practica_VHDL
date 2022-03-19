@@ -1,0 +1,7 @@
+v 4
+file . "../Fuentes/sum1b_tb.vhd" "e45d4717ef7b9a06476c2919713e4234fd71e3f9" "20220319190152.369":
+  entity sum1b_tb at 1( 0) + 0 on 13;
+  architecture sum1b_tb_arq of sum1b_tb at 7( 69) + 0 on 14;
+file . "../Fuentes/sum1b.vhd" "337615d901d446e5c7a8cebbbff6a3902a63784a" "20220319190152.367":
+  entity sum1b at 1( 0) + 0 on 11;
+  architecture sum1b_arq of sum1b at 14( 185) + 0 on 12;

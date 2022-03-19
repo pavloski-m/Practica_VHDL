@@ -1,0 +1,53 @@
+$date
+  Sat Mar 19 16:16:50 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module sum4b_tb $end
+$var reg 4 ! a_tb[3:0] $end
+$var reg 4 " b_tb[3:0] $end
+$var reg 1 # ci_tb $end
+$var reg 4 $ s_tb[3:0] $end
+$var reg 1 % co_tb $end
+$scope module dut $end
+$var reg 4 & a_i[3:0] $end
+$var reg 4 ' b_i[3:0] $end
+$var reg 1 ( ci_i $end
+$var reg 4 ) s_o[3:0] $end
+$var reg 1 * co_o $end
+$var reg 5 + aux[4:0] $end
+$scope module sum1b_ins_0 $end
+$upscope $end
+$scope module sum1b_ins_1 $end
+$upscope $end
+$scope module sum1b_ins_2 $end
+$upscope $end
+$scope module sum1b_ins_3 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b1011 !
+b0100 "
+0#
+bUUUU $
+U%
+b1011 &
+b0100 '
+0(
+bUUUU )
+U*
+bUUUU0 +
+#180000000
+1#
+1(
+bUUUU1 +

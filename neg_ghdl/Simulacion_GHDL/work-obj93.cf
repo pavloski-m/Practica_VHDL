@@ -1,0 +1,7 @@
+v 4
+file . "../Fuentes/neg_tb.vhd" "1f2b1566a4c617c46fbbc46b3ae12f6cd83ec777" "20220318003321.882":
+  entity neg_tb at 1( 0) + 0 on 13;
+  architecture neg_tb_arq of neg_tb at 7( 67) + 0 on 14;
+file . "../Fuentes/neg.vhd" "563ae7e73342493f23606fff2323835de9ea78f7" "20220318003321.880":
+  entity neg at 1( 0) + 0 on 11;
+  architecture neg_arq of neg at 11( 117) + 0 on 12;
